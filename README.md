@@ -26,7 +26,8 @@ Plugin's <br>
  - Após execusão dos testes é possivel visualizar um relatorio macro referente aos testes <br>
    Ex: target->cucumber-reports->report-html. 
    
-                                                                 ![image](https://user-images.githubusercontent.com/55006541/136707258-b80bf4d2-fa9a-486e-8163-e614c4912a92.png)
+                                                                 
+ ![image](https://user-images.githubusercontent.com/55006541/136707258-b80bf4d2-fa9a-486e-8163-e614c4912a92.png)
  
 ![image](https://user-images.githubusercontent.com/55006541/136707196-8297e574-b515-4cc0-ba89-66086afe1967.png)
 
