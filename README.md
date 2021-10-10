@@ -1,4 +1,5 @@
-
+# Técnica Utilizada
+-Cenarios escrito em gherkin com framework do cucumber, restAssured, hamcrest.
 
 
 # CONFIGURAÇÃO DE AMBIENTE DE DESENVOLVIMENTO INTEGRADO #
