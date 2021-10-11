@@ -23,7 +23,6 @@ Plugin's <br>
  - A opção 'tags = ("@test")' identifica qual tag sera executada
  
  # RELATORIO DE EXECUÇÃO DOS TESTES- DASHBOARD (API) #
- <h2> Tags </h2>
  - Após execusão dos testes é possivel visualizar um relatorio macro referente aos testes <br>
    Ex: target->cucumber-reports->report-html. 
    
